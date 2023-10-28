@@ -322,11 +322,6 @@ ant-radio-button.unchecked{
   /* color: aqua; */
 }
 
-/* .ant-radio-button-wrapper.ant-radio-button-wrapper-checked span:nth-of-type(2) .anticon-check.tick-2 {
-  visibility:visible !important;
-  display: inline-flex;
-  /* color: aqua; */
-/* } */ */
 
 /* :where(.css-dev-only-do-not-override-xu9wm8).ant-input-affix-wrapper >input.ant-input{
   background-color: #EFF2F5;
